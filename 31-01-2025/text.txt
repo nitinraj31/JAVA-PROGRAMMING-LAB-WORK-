@@ -1,0 +1,5 @@
+write a java program to take two number (integer.decimal ) and string value from user and display on the screen .
+2.Input sentence 
+3. Write a java program to print a number is even or odd.
+4. Write a java program to print table of any number.
+5. Write a java program to print triangular star pattern .
